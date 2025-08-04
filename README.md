@@ -5,11 +5,11 @@ I´m Eetu Koskinen, a 17 year old programmer from Finland Jyväskylä.
 
 ## About me
 I know the basics of C# and python and a bit of sql as well.
-I´m learning SQL at the moment.
+
 
 I´m currently studying at [Gradia Viitaniemi](https://gradia.fi) .
 
-I like playing games and working out during my free time. 
+I like playing games, coding and working out during my free time. 
 
 <p align="left">
 </p>
