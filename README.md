@@ -1,10 +1,10 @@
 ## Hi there 👋
-I´m Eetu Koskinen, a 17 year old programmer from Finland Jyväskylä. 
+I´m Eetu Koskinen, a 18 year old programmer from Finland Jyväskylä. 
 
 ---
 
 ## About me
-I know the basics of C# and python and a bit of sql as well.
+I know the basics of C# and python as well as MYSQL.
 
 
 I´m currently studying at [Gradia Viitaniemi](https://gradia.fi) .
