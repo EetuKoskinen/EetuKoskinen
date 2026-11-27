@@ -17,7 +17,7 @@
 - 💻 I know **C#**, **Python**, **SQL** and the basics of **web development**
 - 🎓 Currently studying at **Gradia Viitaniemi**
 - 🎮 In my free time I enjoy **gaming**, **coding** and **working out**
-- 🌱 Always learning something new
+- 🌱 Currently studying about python's visual side (numpy and matplotlib)
 
 ---
 
